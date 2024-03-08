@@ -1,0 +1,5 @@
+.root {
+    -fx-background-image: radial-gradient(circle, rgba(55, 60, 245, 1) 0%, rgba(234, 161, 15, 0.90) 100.2%);
+    -fx-background-position: 9% 80.3%;
+    -fx-background-size: 897px;
+}
